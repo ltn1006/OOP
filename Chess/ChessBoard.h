@@ -23,9 +23,21 @@ public:
 		cp[0][0] = 0;
 		//...
 	}
+	
 	void Print()
 	{
 		//...
 	}
+	
+	bool isInCheck(char color)
+	{
+		//...
+	}
+	
+	bool canMove(char color)
+	{
+		//...
+	}
+	
 };
 #endif // !CHESSBOARD_H
